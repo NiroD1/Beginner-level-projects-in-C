@@ -31,5 +31,4 @@ while (1)
     sleep(1);
 }
     return 0;
-return 0;
 }
